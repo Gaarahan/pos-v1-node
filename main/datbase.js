@@ -51,3 +51,6 @@ function loadPromotions() {
         }
     ];
 }
+
+/*为测试添加这两个函数*/
+module.exports = {loadAllItems,loadPromotions};
