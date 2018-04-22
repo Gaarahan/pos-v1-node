@@ -1,6 +1,6 @@
 require('../main/datbase.js');
 
-module.exports = function printInventory() {
+module.exports = function main() {
   var items = loadAllItems();
     
     console.log("Debug Info");

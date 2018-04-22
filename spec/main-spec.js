@@ -1,4 +1,4 @@
-const main = require('../main/main');/*导入main.js文件*/
+const printInventory = require('../main/main');/*导入main.js文件*/
               
 describe('pos', function () {
     var inputs;
